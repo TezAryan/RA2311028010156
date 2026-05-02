@@ -95,7 +95,3 @@ npm start
 
 The application will automatically open in your default browser at `http://localhost:3000`.
 
----
-<p align="center">
-  Built with ❤️ for a modern web experience.
-</p>
